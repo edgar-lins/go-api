@@ -69,4 +69,4 @@ A seguir estão os endpoints disponíveis atualmente:
 
 Este projeto foi desenvolvido com base no tutorial disponível no YouTube. Um agradecimento especial ao criador do conteúdo por compartilhar seu conhecimento.
 
-> **Nota:** Lembre-se de adicionar o link do vídeo ou o nome do canal aqui!
+> **Nota:** Link do tutorial -> https://www.youtube.com/watch?v=3p4mpId_ZU8
