@@ -69,4 +69,4 @@ A seguir estão os endpoints disponíveis atualmente:
 
 Este projeto foi desenvolvido com base no tutorial disponível no YouTube. Um agradecimento especial ao criador do conteúdo por compartilhar seu conhecimento.
 
-> **Nota:** Link do tutorial -> https://www.youtube.com/watch?v=3p4mpId_ZU8
+> **Nota:** Este projeto foi inspirado e guiado pelo seguinte tutorial: [Como criar uma REST API completa do zero com GO | Golang tutorial - iniciante](https://www.youtube.com/watch?v=3p4mpId_ZU8).
